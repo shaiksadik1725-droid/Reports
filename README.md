@@ -31,4 +31,4 @@ This repository acts as an index to selected engineering, AI, IoT, signal-proces
 - Environmental Monitoring
 
 ## Author
-**Asim Shaik**
+**Sadik Shaik**
